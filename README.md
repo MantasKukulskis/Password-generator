@@ -13,11 +13,9 @@ Design: !by mentorė Gabija
 ## 🎯 Project features/goals
 
 Github Pages
-✅ Generate strong, random passwords
-🎛️ Choose password length
-🔣 Customize character types (uppercase, lowercase, numbers, symbols)
-📋 Copy password to clipboard
-🔄 Reset settings
+
+- ✅ Generate strong, random passwords
+- 📋 Copy password to clipboard
 
 ## 🧰 Getting Started
 
