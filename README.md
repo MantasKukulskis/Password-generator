@@ -1,5 +1,7 @@
 🔐 Password Generator
 
+<br>
+
 🌟 About
 A simple and secure Password Generator application that helps users create strong, random passwords to enhance online security.
 
