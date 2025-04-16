@@ -1,8 +1,9 @@
-🔐 Password Generator
+## 🔐 Password Generator
 
 <br>
 
-🌟 About
+## 🌟 About
+
 A simple and secure Password Generator application that helps users create strong, random passwords to enhance online security.
 
 Site published at: https://github.com/MantasKukulskis/Password-generator
