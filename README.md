@@ -1,22 +1,20 @@
-# 📝 To Do List
+🔐 Password Generator
 
-<br>
+🌟 About
+A simple and secure Password Generator application that helps users create strong, random passwords to enhance online security.
 
-## 🌟 About
-
-A simple and functional To Do List application designed to help you manage and track your daily tasks with ease.
-
-Site published at: https://github.com/MantasKukulskis/To-do-list
+Site published at: https://github.com/MantasKukulskis/Password-generator
 
 Design: !by mentorė Gabija
 
 ## 🎯 Project features/goals
 
-- Github pages
-- ✅ Add new tasks
-- 🕒 Mark tasks as completed
-- ❌ Delete tasks
-- ✏️ Edit existing tasks
+Github Pages
+✅ Generate strong, random passwords
+🎛️ Choose password length
+🔣 Customize character types (uppercase, lowercase, numbers, symbols)
+📋 Copy password to clipboard
+🔄 Reset settings
 
 ## 🧰 Getting Started
 
@@ -40,7 +38,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MantasKukulskis/To-do-list.git
+   git clone https://github.com/MantasKukulskis/Password-generator.git
    ```
 2. Install NPM packages
    ```sh
